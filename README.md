@@ -10,7 +10,17 @@ Topics covered included:
 Working with tuples, lists, dictionaries.
 + working with pandas library:
  series and dataframes.
-+ Reading csv with pandas, working with the data
++ Reading csv with pandas, working with the data and visualizing it. 
 
 
-Week two : 
+Week two : Image analysis
+---
+
+This involved working on DICOM format data storing MRI images.
+
+Using; 
++ pydicom python package for working with DICOM files.
++ SimpleITK an image processing library. Useful in segmentation development and imgae registration program.
++ visualizing  MRI images using matplotlib
++ manipulating the data: doing segmentation, smoothing, hole-filling, and working with white and gray matter.
+
